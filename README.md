@@ -1,2 +1,2 @@
 # Toast
-A library to show toast message.
+A library to show simple toast message.
