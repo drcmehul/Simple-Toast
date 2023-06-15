@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.drc.simpletoast
 
 import org.junit.Test
 
